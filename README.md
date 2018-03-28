@@ -22,4 +22,4 @@ Se describe funcionalidad del proyecto
 ### Descripcion
 aqui se agregara la descripcion del diagrama de Flujo
 
-![diagrama de flujo del problema](assets/img/diagrama-flujo.png)
+![diagrama de flujo del problema](assets/image/diagrama-flujo.png)
