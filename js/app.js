@@ -1,3 +1,4 @@
+var hola=alert("hola Francia!!")
 var scores = {}; // Va a llevar el registro de los jugadores
 console.log(scores);
 //
